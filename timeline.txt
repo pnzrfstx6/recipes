@@ -3,4 +3,6 @@ git workflow
 Nunca usar o su root!!!!
 
 Criar um repo no github> public> criar um README>copiar o codigo SSH repo> 
-CD repo q tu criou> git clone SSH key> cria um arquivo txt de timeline
+CD repo q tu criou> git clone SSH key> cria um arquivo txt de timeline>
+git add c o nome do file> git status> modified verde> git commit -m "edit file name"
+git status> nothing to commi> git log> historico das modificacoes> git push origin main 
