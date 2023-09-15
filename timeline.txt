@@ -1,0 +1,6 @@
+git workflow
+
+Nunca usar o su root!!!!
+
+Criar um repo no github> public> criar um README>copiar o codigo SSH repo> 
+CD repo q tu criou> git clone SSH key> cria um arquivo txt de timeline
