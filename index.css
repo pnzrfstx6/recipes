@@ -1,0 +1,24 @@
+/* styles.css */ 
+
+.titulos {
+    background-color: wheat;
+    text-align: center;
+    margin-top: 1.5px;
+    margin-bottom: 5px;
+    padding-bottom: 10px;
+}
+
+.paragrafos {
+    background-color: rgb(235, 224, 204);
+    text-align: justify;
+    margin-top: 5px;
+    font-size: medium;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+.container {
+    background-color: rgb(235, 224, 204);    
+}
+
+
